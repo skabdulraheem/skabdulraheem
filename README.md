@@ -19,7 +19,6 @@ Passionate about strong fundamentals, practical problem solving, and continuous 
 
 * Spring Boot backend projects
 * AI-integrated Java applications
-* Portfolio-grade full stack systems
 * Improving backend architecture skills
 
 ---
@@ -70,7 +69,7 @@ Java (Primary) • SQL • JavaScript • HTML5 • CSS3
 
 ### ⚙️ Backend
 
-Spring Boot • REST APIs • JDBC • Layered Architecture • Microservice Basics
+Spring Boot • REST APIs • JDBC  • Microservice Basics
 
 ---
 
@@ -82,7 +81,7 @@ React.js • Bootstrap • Responsive UI Design
 
 ### 🗄️ Databases
 
-MySQL • MongoDB
+MySQL 
 
 ---
 
