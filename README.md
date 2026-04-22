@@ -131,7 +131,7 @@ To become a **high-impact backend engineer** building scalable systems and intel
 
 ## 📫 How to reach me
 
-* 🌐 Portfolio: https://portfolio2-mu-rouge-24.vercel.app/
+* 🌐 Portfolio: portfolio-eight-pi-dglqcs115s.vercel.app
 * 🔗 LinkedIn: https://www.linkedin.com/in/sk-abdul-raheem-11a4162a8/
 * 💻 GitHub: https://github.com/skabdulraheem
 
